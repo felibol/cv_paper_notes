@@ -9,4 +9,3 @@ Notes about read papers on computer vision (mostly structure from motion, loop c
 ## NN based matching
 
 ## Feature Detection
-
